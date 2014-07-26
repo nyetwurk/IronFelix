@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.dfm,D:\work\checksumm\Main_prg.dfm=C:\Users\OzzY\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.cbproj,D:\work\checksumm\IronFelix.cbproj=C:\Users\OzzY\Documents\RAD Studio\Projects\Project2.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.cpp,D:\work\checksumm\Main_prg.cpp=C:\Users\OzzY\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.h,D:\work\checksumm\Main_prg.h=C:\Users\OzzY\Documents\RAD Studio\Projects\Unit1.h</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="IronFelix.cpp"/>
+    <File Path="IronFelix.res"/>
+    <File Path="Main_prg.cpp"/>
+    <File Path="Main_prg.cpp"/>
+    <File Path="Main_prg.dfm"/>
+    <File Path="Main_prg.h"/>
+    <File Path="Modules_dll.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
